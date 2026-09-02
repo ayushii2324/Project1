@@ -1,17 +1,5 @@
 # Project1
-Important notice (2018-09-19)
 -----------------------------
-
-This project lacked active development for a long while, and it is very
-unlikely that it gets develpment attention in the future. For those
-interested in retrieving and processing data from issue tracking repositories
-(bug tracking repositories), please consider checking GrimoireLab [1] and
-GrimoireLab-Perceval [2] 
-
-[1] https://chaoss.github.io/grimoirelab
-[2] https://github.com/chaoss/grimoirelab-perceval
-
-
 Description
 -----------
 
